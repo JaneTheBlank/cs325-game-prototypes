@@ -1,0 +1,16 @@
+#	A Small World
+*	**Originality:**	Concept was inspired by Toy Story and the idea of exploring a home as a little man.
+*	**Technical	Merit:**	No technology used in the game is particularly unique.
+*	**Prototype	Postmortem:**	As always I didn't spend as much time as I wanted on the project.
+*	**Prototype	Assets:**	All assets were created using simple sprite geometry provided by Unity.
+*	**Prototype	Closest	Other	Game:**	Maybe Grounded, however that is a 3D game instead of 2D.
+*	**High	Concept:** Player is a toy exploring a home, starting with the demo level on shelves.
+*	**Theme:** No theme requirement.
+*	**Mandated	Variety:**	Keyboard input, fully deterministic, closest genre would be platformer, with a performer play style.
+*	**Prototype	Goal:**	I would have liked to add detailed sprites for the objects as well as sounds and a menu screen.
+*	**Player	Experience	Goals:**	Some difficulty in figuring out puzzels using interaction and physics.
+*	**Gameplay:**	Moving along a path and using 'space' to climb as well as 'E' to interact.
+*	**Strategies:**	Unsure of anything that would necessarily be strategies.
+*	**Story/Setting/Premise:**	A toy lost in a house.
+*	**Target	Audience:** At it's level the main target audience is casual gamers on flash sites.
+*	**Play	Time:**	Maybe a few minutes.
