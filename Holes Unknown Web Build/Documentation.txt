@@ -1,0 +1,16 @@
+#	Holes Unknown
+*	**Originality:**	Concept was inspired by unexplored caves and the orthoscopes used to see inside bodies.
+*	**Technical	Merit:**	No technology used in the game is particularly unique.
+*	**Prototype	Postmortem:**	As always I didn't spend as much time as I wanted on the project.
+*	**Prototype	Assets:**	All assets were created using simple sprite geometry provided by Unity.
+*	**Prototype	Closest	Other	Game:**	Games like Spelunky.
+*	**High	Concept:** Player is a drone exploring a cave in order to mark treasure for human crews to come in and get.
+*	**Theme:** Peeking into a hole.
+*	**Mandated	Variety:**	Keyboard input, fully deterministic, closest genre would be explorer, with a collector play style.
+*	**Prototype	Goal:**	I would have liked to add sounds and actually sprites for the world and treasure as well as more levels and story.
+*	**Player	Experience	Goals:**	To enjoy the story and become invested in the characters.
+*	**Gameplay:**	Moving with 'W' 'A' 'S' 'D', using 'E' to move through dialogue, and 'F' to mark treasure.
+*	**Strategies:**	Unsure of anything that would necessarily be strategies.
+*	**Story/Setting/Premise:**	A drone exploring tunnels to mark treasure and coming across occult happenings.
+*	**Target	Audience:** At it's level the main target audience is casual gamers on flash sites.
+*	**Play	Time:**	Maybe a few minutes.
